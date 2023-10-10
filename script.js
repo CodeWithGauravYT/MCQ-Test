@@ -15,8 +15,8 @@ document.addEventListener("DOMContentLoaded", function () {
       function loadQuestion() {
         const questionData = questions[currentQuestion];
         quizContainer.innerHTML = `
-                    <h3>${questionData.question}</h3>
-                    <ul>
+                    <h3>${questionData.id}. ${questionData.question}</h3>
+                    <ul style="list-style: lower-alpha;">
                         ${questionData.options
                           .map(
                             (option, index) => `
