@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1,
+        "question": "What is the correct HTML tag for inserting a line break?",
+        "options": ["&lt;lb&gt;", "&lt;linebreak&gt;", "&lt;br&gt;", "&lt;newline&gt;"],
+        "correctAnswer": "<br>"
+    },
+    {
+        "id" : 2,
+        "question": "In HTML, which tag is used to create a horizontal line?",
+        "options": ["&lt;hr&gt;", "&lt;line&gt;", "&lt;hl&gt;", "&lt;line-horizon&gt;"],
+        "correctAnswer": "<hr>"
+    },
+    {
+        "id" : 3,
+        "question": "Which HTML tag is used to emphasize text, typically displayed as italicized?",
+        "options": ["&lt;strong&gt;", "&lt;em&gt;", "&lt;i&gt;", "&lt;italic&gt;"],
+        "correctAnswer": "<em>"
+    },
+    {
+        "id" : 4,
+        "question": "Which HTML element is used for defining the structure of an HTML document?",
+        "options": ["&lt;body&gt;", "&lt;head&gt;", "&lt;structure&gt;", "&lt;html&gt;"],
+        "correctAnswer": "<html>"
+    },
+    {
+        "id" : 5,
+        "question": "What does the HTML element &lt;h2&gt; represent in a web page?",
+        "options": ["A horizontal rule", "A hyperlink", "A level 2 heading", " A highlighted text"],
+        "correctAnswer": "A level 2 heading"
+    }
+    
+]
