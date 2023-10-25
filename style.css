@@ -1,3 +1,18 @@
-#topic{
-    text-align: center;
+#topic {
+  text-align: center;
+}
+/* Styling Links */
+#quizList a:link {
+  color: #1098ad;
+  text-decoration: none;
+}
+
+#quizList a:visited {
+  color: #1098ad;
+}
+
+#quizList a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline orangered;
 }
